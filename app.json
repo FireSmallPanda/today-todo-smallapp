@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/todo/todo",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "今天做什么",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "selectedColor": "red",
+    "list": [
+      {
+        "pagePath": "pages/todo/todo",
+        "text": "清单",
+        "iconPath": "images/icon/circle-check.png",
+        "selectedIconPath": "images/icon/circle-check.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "番茄",
+        "iconPath": "images/icon/clock.png",
+        "selectedIconPath": "images/icon/clock.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "统计",
+        "iconPath": "images/icon/file-text.png",
+        "selectedIconPath": "images/icon/file-text.png"
+      }
+    ]
+  }
+}
