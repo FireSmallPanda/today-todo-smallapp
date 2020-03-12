@@ -1,5 +1,6 @@
 <!--logs.wxml-->
 <view class="container log-list">
+  <a class="weui-btn weui-btn_primary">页面主操作</a>
   <block wx:for="{{logs}}" wx:for-item="log">
     <text class="log-item">{{index + 1}}. {{log}}</text>
   </block>

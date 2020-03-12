@@ -14,15 +14,13 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.10.2",
 	"appid": "wxf9fcee96d8090c55",
-	"projectname": "wxsoftDemo",
+	"projectname": "today-todo-smallapp",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
 	"isGameTourist": false,
 	"simulatorType": "wechat",
-	"simulatorPluginLibVersion": {
-		"qywx": "1.2.0"
-	},
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,

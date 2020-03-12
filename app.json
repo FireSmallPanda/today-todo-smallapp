@@ -2,7 +2,8 @@
   "pages": [
     "pages/todo/todo",
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/tomato/tomato"
   ],
   "window": {
     "backgroundTextStyle": "light",
